@@ -1,4 +1,4 @@
-package com.ak.model;
+package com.ak.dependency.model;
 
 public class AccountInfo {
 

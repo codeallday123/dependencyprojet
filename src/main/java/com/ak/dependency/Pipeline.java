@@ -1,6 +1,6 @@
-package com.ak;
+package com.ak.dependency;
 
-import com.ak.model.BalanceInfo;
+import com.ak.dependency.model.BalanceInfo;
 
 public class Pipeline {
 

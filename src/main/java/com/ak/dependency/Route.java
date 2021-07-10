@@ -1,7 +1,7 @@
-package com.ak;
+package com.ak.dependency;
 
-import com.ak.model.AccountInfo;
-import com.ak.model.BalanceInfo;
+import com.ak.dependency.model.AccountInfo;
+import com.ak.dependency.model.BalanceInfo;
 
 public class Route {
 
